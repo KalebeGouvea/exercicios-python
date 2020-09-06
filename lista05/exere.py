@@ -33,15 +33,29 @@ x = """213752 216732 221063 221545 225583 229133 230648 233222
 662224 666265 668010 672480 672695 676868 677125 678315"""
 
 n = 0
-
 tel = x.split()
-for x in tel:
-    for y in range(10):
-        if str(y)+str(y) in x:
-            break
-    soma = int(x[0]) + int(x[1]) + int(x[2]) + int(x[3]) + int(x[4]) + int(x[5]) 
+
+def doisdigitos (t):
+    for i in range(10):
+        if str(i)+str(i) in t:
+            return True
+    return False
+
+def somapar (t):
+    soma = int(t[0]) + int(t[1]) + int(t[2]) + int(t[3]) + int(t[4]) + int(t[5])
     if soma % 2 == 0:
-        if x[-1] != x[0]:
-            n += 1
+        return True
+    else:
+        return False
+
+def digitoigual (t):
+    if t[0] == t[-1]:
+        return True
+    else:
+        return False
+
+for t in tel:
+    if doisdigitos(t) == False and somapar(t) == True and digitoigual(t) == False:
+        n += 1
 
 print(n)
