@@ -16,8 +16,10 @@ class Bola:
     def mostraCor(self):
         return self.cor
 
+#Utilizando metodo para mostrar a cor da bola
 bola = Bola("amarela", 0.70, "couro")
 print(bola.mostraCor())
 
+#Utilizando metodos para trocar a cor da bola e mostrar a sua cor
 bola.trocaCor("marrom")
 print(bola.mostraCor())
