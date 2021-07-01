@@ -53,4 +53,5 @@ bichinho.mudarNome("Pingo")
 bichinho.mudarIdade(5)
 bichinho.mudarSaude(90)
 bichinho.mudarFome(90)
-print(vars(bichinho))
+
+print(bichinho.obterNome(), bichinho.obterIdade(), bichinho.obterFome(), bichinho.obterSaude(), bichinho.obterHumor())
