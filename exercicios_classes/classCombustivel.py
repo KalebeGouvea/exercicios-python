@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Classe Bomba de Combustível: Faça um programa completo utilizando classes e métodos que:
 a.Possua uma classe chamada bombaCombustível, com no mínimo esses atributos:

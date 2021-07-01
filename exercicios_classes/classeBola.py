@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #Exercicios retirados da pagina https://wiki.python.org.br/ExerciciosClasses
 """
 1. Classe Bola: Crie uma classe que modele uma bola:

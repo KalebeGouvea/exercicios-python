@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Classe Macaco: Desenvolva uma classe Macaco,que possua os atributos nome e bucho (estomago) 
 e pelo menos os métodos comer(), verBucho() e digerir(). Faça um programa ou teste 

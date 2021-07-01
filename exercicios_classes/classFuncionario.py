@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 13. Classe Funcionário: Implemente a classe Funcionário. Um empregado 
 tem um nome (um string) e um salário(um double). Escreva um 

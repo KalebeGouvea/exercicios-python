@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 3. Classe Retangulo: Crie uma classe que modele um retangulo:
 a.Atributos: LadoA, LadoB (ou Comprimento e Largura, ou Base e Altura, a escolher)

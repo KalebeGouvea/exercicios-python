@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 15. Classe Bichinho Virtual++: Melhore o programa do bichinho virtual, 
 permitindo que o usuário especifique quanto de comida ele fornece 

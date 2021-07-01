@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Classe Ponto e Retangulo: Faça um programa completo utilizando funções e classes que:
 a. Possua uma classe chamada Ponto, com os atributos x e y.

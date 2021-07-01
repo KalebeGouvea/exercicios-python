@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 4. Classe Pessoa: Crie uma classe que modele uma pessoa:
 a. Atributos: nome, idade, peso e altura

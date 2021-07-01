@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 2. Classe Quadrado: Crie uma classe que modele um quadrado:
 a. Atributos: Tamanho do lado

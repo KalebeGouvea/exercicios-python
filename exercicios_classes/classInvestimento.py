@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Faça uma classe contaInvestimento que seja semelhante a classe 
 contaBancaria, com a diferença de que se adicione um atributo 

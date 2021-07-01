@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Classe Bichinho Virtual:Crie uma classe que modele um Tamagushi (Bichinho Eletrônico):
 a. Atributos: Nome, Fome, Saúde e Idade 
